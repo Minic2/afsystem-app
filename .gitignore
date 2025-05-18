@@ -2,7 +2,7 @@
 
 # Compiled output
 #/dist
-/dist/afsystemapp
+/dist
 /tmp
 /out-tsc
 /bazel-out
